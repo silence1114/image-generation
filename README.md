@@ -1,6 +1,6 @@
 # image-generation
 
-####实验环境：<br>
+####实验环境：
 Python 3.6.4<br>
 Numpy 1.14.3<br>
 Tensorfow 1.8.0<br><br><br>
